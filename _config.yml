@@ -1,2 +1,3 @@
 name: James Robbins, marine mammal biologist
 markdown: kramdown
+permalink: blog/:year/:month/:day/:title
